@@ -1,4 +1,4 @@
-# Preračun zavor priklopnikov
+# Preračun zavor priklopnika
 <b>Programsko orodje za preračun in izbiro zavornih sistemov priklopnih vozil</b> <br/>
 <br/>
 Konstruiranje zavornega sistema priklopnikov obsega preračun parametrov zavornega
